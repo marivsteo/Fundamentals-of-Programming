@@ -1,0 +1,4 @@
+1 toadere andreas 8 10.0
+2 toadere cristian 12 10.0
+3 eci magda 6 5.0
+4 ioja sorina 12 9.0

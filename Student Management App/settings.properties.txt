@@ -1,0 +1,4 @@
+mode = memory
+file_students = Students.txt
+file_disciplines = Disciplines.txt
+file_grades = Grades.txt
